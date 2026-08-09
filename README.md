@@ -1,4 +1,5 @@
-## Hi there 👋
+- SephiriaのModについて詳しく知りたい人
+[MODPHIRIA Discord Server](https://discord.gg/ZyFQCMJ72W)
 
 <!--
 **Mira090/Mira090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
