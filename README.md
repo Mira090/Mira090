@@ -1,5 +1,3 @@
-- SephiriaのModについて詳しく知りたい人
-
 [MODPHIRIA Discord Server](https://discord.gg/ZyFQCMJ72W)
 
 <!--
