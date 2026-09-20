@@ -1,7 +1,9 @@
 ↓SephiriaのMod開発者やModユーザーが集まっている場所
+
 [MODPHIRIA Discord Server](https://discord.gg/ZyFQCMJ72W)
 
 ↓日本人向けにSephiriaのMod情報を投稿中
+
 [Note.com](https://note.com/mira090)
 
 <!--
